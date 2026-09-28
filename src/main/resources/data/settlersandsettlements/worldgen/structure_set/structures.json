@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "settlersandsettlements:hunter_cottage",
+      "weight": 1
+    },
+    {
+      "structure": "settlersandsettlements:small_pillager_hut",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1847362917,
+    "spacing": 20,
+    "separation": 15,
+    "type": "minecraft:random_spread"
+  }
+}

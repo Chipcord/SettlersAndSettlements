@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "settlersandsettlements:target_poi",
+      "required": false
+    }
+  ]
+}
